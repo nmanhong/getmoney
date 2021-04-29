@@ -1,1 +1,1 @@
-# getmoney
+# Predict lottery wins with python

@@ -48,7 +48,7 @@ def guessnum(nums,c,d):
             print("\n")
 
 def main():
-    nums = 9
+    nums = 10
     c = 7
     d = 5
     guessnum(nums,c,d)
